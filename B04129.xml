@@ -1,0 +1,1493 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gwyddor vchod.</title>
+            <author>Llwyd, Morgan, 1619-1659.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04129</idno>
+            <idno type="STC">Wing L2720E</idno>
+            <idno type="STC">ESTC R180050</idno>
+            <idno type="EEBO-CITATION">49520935</idno>
+            <idno type="OCLC">ocm 49520935</idno>
+            <idno type="VID">174175</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04129)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174175)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2672:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gwyddor vchod.</title>
+                  <author>Llwyd, Morgan, 1619-1659.</author>
+               </titleStmt>
+               <extent>[2], 30, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Printiedig yn Llyndain, :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Morgan Llwyd by Wing; signed Ll.G.M. on p. 30.</note>
+                  <note>Reproduction of original in: Llyfrgell Genedlaethol Cymru/National Library of Wales.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="wel">wel</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms VIII, 3-4 --  Poetry --  Welsh.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="wel">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174175:1"/>
+            <pb facs="tcp:174175:1" rendition="simple:additions"/>
+            <p>GWYDDOR VCHOD.</p>
+            <q>
+               <bibl>Pſal. 8.3, 4.</bibl>
+               <p>Pan edrychwyf ar dy nefoedd, gwaith dy fyſedd, y lloer ar ſer, y rhai a ordeniaiſt.</p>
+               <p>Pa beth yw dyn iti iw gofio? a mab dyn iti i ymweled ag ef?</p>
+            </q>
+            <p>Printiedig yn <hi>Llundain,</hi> 
+               <date>1657.</date>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174175:2"/>
+            <pb n="1" facs="tcp:174175:2"/>
+            <div type="poem">
+               <head>Gwyddor vchod.</head>
+               <epigraph>
+                  <q>
+                     <bibl>Pſalm 8.3, 4.</bibl>
+                     <l>Wrth edrych ar y nefoedd faith</l>
+                     <l>a gweled gwaith dy fyſedd.</l>
+                     <l>Yr Haul ar lleuad gron, ar Ser</l>
+                     <l>mewn trefn ag amlder rhyfedd.</l>
+                     <l>Pa beth yw dyn? (Rhyfeddwn i.)</l>
+                     <l>pan fyddit di yw gofio,</l>
+                     <l>Neu fab dyn marwol (llwch y llawr)</l>
+                     <l>pan wneit ti 'n fawr am dano!</l>
+                  </q>
+               </epigraph>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>TAd yw Duw y byd cen<g ref="char:EOLhyphen"/>hedlodd.</l>
+                  <l>Duw yw 'r mab y cyfan prynnodd.</l>
+                  <l>Ysbryd glân yw Duw ein lluniwr.</l>
+                  <l>Barnwr, Cârwr, a chyſſurwr.</l>
+               </lg>
+               <lg n="2">
+                  <pb n="2" facs="tcp:174175:3"/>
+                  <head>2.</head>
+                  <l>Nid yw Duw Ddim ar a welir.</l>
+                  <l>Duw drwy 'r cwbl a genfyddir.</l>
+                  <l>Yn y ddayar nid oes arall,</l>
+                  <l>Yn y nef vwchlaw pob deall.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Sôn am helynt, Sôn am dynged,</l>
+                  <l>Sôn am adar, bwyſtfil pryfed.</l>
+                  <l>Sôn am ddyddiau gynt neu gwedi,</l>
+                  <l>Sôn am Dduw yw'r ſwn o ddifri.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>
+                     <hi>Rhyfedd,</hi> Rhyfedd, Rhyfedd, Argl<g ref="char:EOLhyphen"/>wydd.</l>
+                  <l>
+                     <hi>Rhyfedd</hi> medd pob Angel dedwydd</l>
+                  <l>
+                     <hi>Rhyfedd</hi> wyti, medd dy ſeinctiau,</l>
+                  <l>
+                     <hi>Rhyfedd</hi> hefyd medd dy eiriau.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>
+                     <hi>Rhyfedd</hi> yn dy fab ath hunan,</l>
+                  <l>
+                     <hi>Rhyfedd</hi> yn dy waith ath amcan:</l>
+                  <l>
+                     <hi>Rhyfedd</hi> yn y môr ar nefoedd,</l>
+                  <l>
+                     <hi>Rhyfedd</hi> wyt ynghalon pobloedd.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>
+                     <hi>Rhyfedd</hi> yn y ffurfafennau,</l>
+                  <l>
+                     <hi>Rhyfedd</hi> yn yr holl blanedau.</l>
+                  <l>
+                     <hi>Rhyfedd</hi> wyt ymhob creadur.</l>
+                  <l>
+                     <hi>Rhyfedd</hi> iawn, nith wêl pechadur.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>
+                     <hi>Rhyfedd</hi> wyt, ag agos attom.</l>
+                  <l>
+                     <hi>Rhyfedd</hi> wyt yn gwilio droſom:</l>
+                  <l>
+                     <hi>Rhyfedd!</hi> Pwy a all dy wadu?</l>
+                  <l>
+                     <hi>Rhyfedd,</hi> nad yw pawb ith garu:</l>
+               </lg>
+               <lg n="8">
+                  <pb n="3" facs="tcp:174175:3"/>
+                  <head>8.</head>
+                  <l>
+                     <hi>Rhyfedd</hi> fywyd. Rhyfedd ffynnon,</l>
+                  <l>
+                     <hi>Rhyfedd</hi> wraidd, a Thâd yſbrydion.</l>
+                  <l>
+                     <hi>Rhyfedd</hi> frenin y Teyrnaſoedd,</l>
+                  <l>
+                     <hi>Rhyfedd</hi> Garwr yr holl bobloedd.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>
+                     <hi>Rhyfedd</hi> hefyd gweled Dynion,</l>
+                  <l>
+                     <hi>Rhyfedd</hi> deillion a byddarion.</l>
+                  <l>
+                     <hi>Rhyfedd</hi> heb adnabod Jeſu,</l>
+                  <l>
+                     <hi>Rhyfedd</hi> fod rhai ith oganu.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>
+                     <hi>Rhyfedd</hi> oeddit cyn bod bydoedd</l>
+                  <l>
+                     <hi>Rhyfedd</hi> pan ddarfyddo 'r oeſoedd.</l>
+                  <l>
+                     <hi>Rhyfedd</hi> oedd 'd anrhydedd cyntaf</l>
+                  <l>
+                     <hi>Rhyfedd</hi> fydd dy glod ddiwaethaf.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>
+                     <hi>Rhyfedd</hi> wyt yn llunio angelion,</l>
+                  <l>
+                     <hi>Rhyfedd</hi> yn diddymmu dynion.</l>
+                  <l>
+                     <hi>Rhyfedd</hi> yn dy enwau rhyfedd;</l>
+                  <l>
+                     <hi>Rhyfedd</hi> wyneb, Rhyfedd agwedd.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Nid oes ddyn a edwyn Dduwdod</l>
+                  <l>Ag ai cenfydd heb Ryfeddod.</l>
+                  <l>Nid dim Rhyfedd gida 'r Jeſu,</l>
+                  <l>Chriſt ſydd Ryfedd, Bydd iw garu.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>Gwreiddyn calon, Dirgel Dwyfro<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>Gweled Gwilied Gwaelod dynion.</l>
+                  <l>Mawr yw taſg y galon iſel,</l>
+                  <l>Yn ymchwilio ir Derchafel:</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>Beth yw Duw (medd llawer ennid)</l>
+                  <l>
+                     <pb n="4" facs="tcp:174175:4"/>Mae adnabod Duw 'n anghenrhaid.</l>
+                  <l>Neb nis cenfydd ar a lygrir</l>
+                  <l>Pawb ai cenfydd ar a gedwir.</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>Cariad Diſtaw ydiw'r Arglwydd,</l>
+                  <l>Pûr, Anrhaethol, Dirgel, Dedwydd,</l>
+                  <l>Duw heb gâs, heb ſwn, heb driſtwch,</l>
+                  <l>Dinewidiad, Heb dywyllwch.</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>Calon byd, yw Duw ei Hunan,</l>
+                  <l>Ag oi ewyllys i daeth allan:</l>
+                  <l>Yr oedd Duw cyn gwneuthur vnlle</l>
+                  <l>Oll yn oll yn llenwi 'r holl le.</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>Ni wnaeth Duw mor byd o hir bell,</l>
+                  <l>Fel rhyw ſâer yn gwneuthur pabell,</l>
+                  <l>Ond o hono, mae 'r Byd drwyddo,</l>
+                  <l>Ag yn vnig ſefyll ynddo.</l>
+               </lg>
+               <lg n="18">
+                  <head>18.</head>
+                  <l>Paid a chwilio wrth dy feddwl,</l>
+                  <l>Gwann yw ſynwyr ddynol drwſewl</l>
+                  <l>Ni cheir gweled Haul mewn tywyll,</l>
+                  <l>Ganol nos wrth olau canwyll.</l>
+               </lg>
+               <lg n="19">
+                  <head>19.</head>
+                  <l>Ond mae yſbryd Duw mewn dynion</l>
+                  <l>Yn datcuddio rhyfeddodion.</l>
+                  <l>Llei bo hwn, ar dyn iw garu.</l>
+                  <l>Mae fo 'n eglur ddangos Jeſu.</l>
+               </lg>
+               <lg n="20">
+                  <pb n="5" facs="tcp:174175:4"/>
+                  <head>20.</head>
+                  <l>Roedd goleuni Duw mewn meſur</l>
+                  <l>In Henafiaid oll yn eglur.</l>
+                  <l>Ag mae llewyrch Duw yr awran</l>
+                  <l>Fel y wawr yn tarddu allan.</l>
+               </lg>
+               <lg n="21">
+                  <head>21</head>
+                  <l>Mae caerſalem nefol hawddgar</l>
+                  <l>Ymron diſgyn ar y ddayar.</l>
+                  <l>Gwilied dyn broffeſſu y chwaneg</l>
+                  <l>Nag a gafodd yn ddiddammeg.</l>
+               </lg>
+               <lg n="22">
+                  <head>22.</head>
+                  <l>Deall hyn, ô Gymro tirion,</l>
+                  <l>Deall hyn, a gwel dy galon.</l>
+                  <l>Deall hyn ar holl gelfyddau:</l>
+                  <l>Deall hyn a thyrd ir golau.</l>
+               </lg>
+               <lg n="23">
+                  <head>23.</head>
+                  <l>Duw a wnaeth ſaith ſeren ſiriol</l>
+                  <l>Adda cyntaf yn rhyfeddol.</l>
+                  <l>Yn yr wybren yn cyfatteb,</l>
+                  <l>Yn yr eglwys mewn doethineb.</l>
+               </lg>
+               <lg n="24">
+                  <head>24.</head>
+                  <l>Mae ſaith ysbryd Duw tragwy<g ref="char:EOLhyphen"/>ddol</l>
+                  <l>Ar ſaith ſeren ynt derfynol.</l>
+                  <l>Drwy naturiaeth Duw yw 'r Arglw<g ref="char:EOLhyphen"/>ydd</l>
+                  <l>Ar ſaith Blaned ynt ſaith Arwydd.</l>
+               </lg>
+               <lg n="25">
+                  <head>25.</head>
+                  <l>Hyn ſydd hynod, Hyn ſydd eglur wrth natur.</l>
+                  <l>Mai 'r gwir Dduw ſydd Dduw</l>
+                  <l>A addolo Dduw terfynol</l>
+                  <l>
+                     <pb n="6" facs="tcp:174175:5"/>A addola Arglwydd cnawdol.</l>
+               </lg>
+               <lg n="26">
+                  <head>26.</head>
+                  <l>Delw Duw yw 'r Adda gwerth<g ref="char:EOLhyphen"/>fawr</l>
+                  <l>Delw dyn yw 'r holl fyd trâ mawr.</l>
+                  <l>Delw 'r cythrael ydyw 'r pechod:</l>
+                  <l>Delw 'r ynfyd ydyw Gormod.</l>
+               </lg>
+               <lg n="27">
+                  <head>27.</head>
+                  <l>Paid a chwilio wrth dy ſynwyr.</l>
+                  <l>Paid a thybio gwellhau 'n rhywyr.</l>
+                  <l>Paid a chyſgu, Dyma 'r bo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>au.</l>
+                  <l>Paid a grwgnach, Dyma 'r blodau.</l>
+               </lg>
+               <lg n="28">
+                  <head>28.</head>
+                  <l>Os gofynni, Beth yw 'r Anian</l>
+                  <l>A naturiaeth dyn ei Hunan?</l>
+                  <l>Pawb ath ettyb. Mai, Tân, Awyr,</l>
+                  <l>Dwr, a Dayar fydd mewn natur.</l>
+               </lg>
+               <lg n="29">
+                  <head>29.</head>
+                  <l>Nid rhaid i ni wrth yn fydion</l>
+                  <l>Nad adwaenant moi Defnyddion.</l>
+                  <l>Cymrwn ddeall. Bydd wn hyddyſg.</l>
+                  <l>Na ddirmygwn oddef addyſg.</l>
+               </lg>
+               <lg n="30">
+                  <head>30.</head>
+                  <l>Chwilied dyn ei holl ddefny<g ref="char:EOLhyphen"/>ddiau.</l>
+                  <l>Chwaled ymaith ddrwg feddyliau.</l>
+                  <l>Gwilied gablu 'r gwaith oddiallan,</l>
+                  <l>Gweled beth ſydd ynddo ei hunan.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="7" facs="tcp:174175:5"/>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>
+                     <hi>Y Lleuad a</hi> Mercurius</l>
+                  <l>
+                     <hi>Yn neſa at hyny</hi> Venus;</l>
+                  <l>
+                     <hi>Yr</hi> Haul <hi>a</hi> Mars <hi>a</hi> Jupiter</l>
+                  <l>
+                     <hi>A</hi> Saturn <hi>Sceler anhlws.</hi>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Mae ymhob dyn naturiol,</l>
+                  <l>Saith Blaned fawr ryfeddol;</l>
+                  <l>Ag yn cydweithio heb nâghau</l>
+                  <l>Gida 'r Planedau nefol.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Yr iſaf ydyw 'r <hi>Lleuad.</hi>
+                  </l>
+                  <l>Ar neſaf at ddayar-wlad:</l>
+                  <l>Cares <hi>ymmennydd</hi> pawb i gid</l>
+                  <l>Yn newid fel miſwriad.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>
+                     <hi>Mercurius</hi> yw 'r ail Blaned,</l>
+                  <l>A hynod yw ei cherdded.</l>
+                  <l>Hon yw 'r <hi>yſgyfaint</hi> mewn dyn byw</l>
+                  <l>A llais-gar yw iw chlywed.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>
+                     <hi>Venus</hi> yw 'r blaned eglur</l>
+                  <l>Sydd dan yr Haul yn gyſſur.</l>
+                  <l>Fel yr <hi>Arrennau</hi> ynghorph dyn</l>
+                  <l>Mae hon yn nhyddyn natur.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Yr <hi>Haul</hi> canolig rhyfedd,</l>
+                  <l>Yw 'r Blaned fawr bed waredd.</l>
+                  <l>Hwn ſy 'n rheoli 'r einioes hon,</l>
+                  <l>Fel <hi>Calon</hi> mewn corpholedd.</l>
+               </lg>
+               <lg n="7">
+                  <pb n="8" facs="tcp:174175:6"/>
+                  <head>7.</head>
+                  <l>A <hi>Mars</hi> yw 'r bymmed ſeren,</l>
+                  <l>Mae hi vwch haul yn 'r wybron.</l>
+                  <l>Mewm dynion y <hi>Buſtl</hi> tanllyd yw,</l>
+                  <l>Sy 'n rhwyſtro byw yn llawen.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>A <hi>Jupiter</hi> yw 'r blaned</l>
+                  <l>Sy 'n cael ei lle yn chweched.</l>
+                  <l>Vn ddull a bon yw <hi>Afù</hi> dyn,</l>
+                  <l>Am dano ei hun meddylied.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Ar ſeithfed vchaf awyr</l>
+                  <l>Yw 'r Seren <hi>Saturn</hi> laſwyr:</l>
+                  <l>Y <hi>Ddueg</hi> o fewn corpws dyn</l>
+                  <l>A hon ſydd vn mewn gwew yr.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Dyn iw Canolfa 'r hollfyd,</l>
+                  <l>Dyn o bob peth a grewyd.</l>
+                  <l>Pob peth a wnaed ſydd ynddo ef,</l>
+                  <l>Môr, Dayar, Nef, a Bywyd.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Mae eſgyrn dyn fel creigiau.</l>
+                  <l>Ai withi fel y ffrydiau.</l>
+                  <l>Ai gnawd fel dayar domlyd frâu,</l>
+                  <l>Ai chwantau fel cyſgodau.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Ai wallt fel gwellt yn tyfu,</l>
+                  <l>Oi ffroen mae 'r gwynt yn chwythu</l>
+                  <l>Ag or tu fewn mae dwr a thân,</l>
+                  <l>Ag oddiallan felly.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>Adwaened dyn ei hunan.</l>
+                  <l>
+                     <pb n="9" facs="tcp:174175:6"/>Aed dyn oi hunan allan.</l>
+                  <l>Os gwna fe hyn fe fydd yn ſiwr</l>
+                  <l>Yn y creawdwr pûrlan.</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>Aſtronomyddion cnawdol</l>
+                  <l>Sy 'n ſôn am Sêr naturiol:</l>
+                  <l>Heb ganfod y ſaith yſbryd byw,</l>
+                  <l>Sydd yn ei rhyw 'n dragwyddol.</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>Ni ddarfu i Dduw (o afraid)</l>
+                  <l>Mo lunio 'r creaduriaid.</l>
+                  <l>Na Sêr y nef ddim ond i fod</l>
+                  <l>Yn Syndod anifeiliaid.</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>Ond fel i bae eneidiau</l>
+                  <l>Yn canfod y canhwyllau:</l>
+                  <l>Ag yn mawr berchi Duw ei hun</l>
+                  <l>Ynghriſt heb lûn na delwau.</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>Mae 'r pryfed ar Bwyſtfilod</l>
+                  <l>Yn gweled ſerâu vchod.</l>
+                  <l>Heb ddeall dim, ond ceiſied dyn</l>
+                  <l>gan Dduw ei hun i dattod.</l>
+               </lg>
+               <lg n="18">
+                  <head>18.</head>
+                  <l>Ai dattod a wna 'r Arglwydd</l>
+                  <l>Ir dyn a fynno 'n ebrwydd</l>
+                  <l>Droi iddo ei hun at Dduw ai gw<g ref="char:EOLhyphen"/>naeth</l>
+                  <l>Ni bydd hwn caeth ond dedwydd.</l>
+               </lg>
+               <lg n="19">
+                  <head>19.</head>
+                  <l>Mae 'r ddayar yn y drallod.</l>
+                  <l>
+                     <pb n="10" facs="tcp:174175:7"/>Ar wybren mewn anghydfod.</l>
+                  <l>Ar ſêr yn croeſi 'r naill y llall.</l>
+                  <l>Fe ddichon call i cymmod.</l>
+               </lg>
+               <lg n="20">
+                  <head>20.</head>
+                  <l>Nid oes vn yn ſerennu</l>
+                  <l>Heb arall yn i magu.</l>
+                  <l>Mae croes ddefnyddiau yn gytûn,</l>
+                  <l>Ag oll yn vn yn clymmu.</l>
+               </lg>
+               <lg n="21">
+                  <head>21.</head>
+                  <l>A chofied y Darllennydd</l>
+                  <l>Na farno gân y prydydd:</l>
+                  <l>Nes iddo ddeall ynddo 'r gwaith,</l>
+                  <l>Ar ſêr ar ſaith tragywydd.</l>
+               </lg>
+               <lg rend="italic">
+                  <l>Hwre wŷddor ith dorri, o newydd</l>
+                  <l>yn niwedd dyreidi.</l>
+                  <l>Hwre air call, deall di.</l>
+                  <l>Hwre Daſg. Hwyr i dyſgi.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Y Lleuad.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>SEren agos ydyw 'r <hi>Lleuad,</hi>
+                  </l>
+                  <l>Gwlyb ag oerllyd ag anwaſtad.</l>
+                  <l>Iſaf ydyw or Planedau</l>
+                  <l>Ag Arglwyddes nos i ninnau.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Tanllyd (medd rhai) ynddi ei hunan,</l>
+                  <l>
+                     <pb n="11" facs="tcp:174175:7"/>Ond bod moroedd a dayarlan</l>
+                  <l>Yn i boddi mewn cymdogaeth,</l>
+                  <l>Wrth roi iddi ei gwlybaniaeth.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Drych ir <hi>Haul,</hi> os diſclair arni,</l>
+                  <l>Tywyll yw os ymgudd rhagddi.</l>
+                  <l>
+                     <hi>Haul</hi> yw 'r Gwr, a hon yw 'r wreig<g ref="char:EOLhyphen"/>dda.</l>
+                  <l>Behemoth a leuiatha.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Ffôl a ddywed-weled ynddi,</l>
+                  <l>Wr a bauch drain yn i goſpi.</l>
+                  <l>Ond ei hun dan ddrain dayarol</l>
+                  <l>Sydd yn torri 'r Sabbath nefol.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Brychau yn y lleuad hawddgar</l>
+                  <l>Ynt fel pyllau yn y ddayar.</l>
+                  <l>Ag nid oes gorph heb ei frychau,</l>
+                  <l>Ped fae 'r vn, yr Haul ai piau.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Dyma 'r Lleuad gennad gaingron</l>
+                  <l>Hallt ir blas, yn lliwio 'r ſaffron.</l>
+                  <l>Yn mynd drwy 'r arwyddion nefol.</l>
+                  <l>Mewn wyth diwrnod ar hugainiol.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Tra fo 'r Haul yn Symud dani,</l>
+                  <l>Mae dau gorn i fynu iddi:</l>
+                  <l>Pan fo 'r Haul vwchlaw ei cherdded</l>
+                  <l>Mae 'r ddau gorn yn troi i wared.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Yn ei gwendid mae 'n troi atto,</l>
+                  <l>
+                     <pb n="12" facs="tcp:174175:8"/>Yn ei chynnudd oddiwrtho.</l>
+                  <l>Er nad oes na chorn na chynnudd,</l>
+                  <l>Nar fath beth ir lleuad newydd.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Os côch fydd blaennewydd-leuad</l>
+                  <l>Gwynt ty mheſtloedd Hwde attad.</l>
+                  <l>Os dû 'r corn, Glaw mawr ſy 'n canlyn.</l>
+                  <l>Canol ty wyll ni phair ddychryn.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Llygaid cath a ddengys i chwi,</l>
+                  <l>Pan fo 'r lloer mewn trâi neu lenwi,</l>
+                  <l>Newid a wna 'r pethau iſod,</l>
+                  <l>Sy 'n cytuno ai chyfammod.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Gwyr yr Hwſmon fod lloer ne<g ref="char:EOLhyphen"/>wydd</l>
+                  <l>Ar y tir ai gwaith mewn arwydd,</l>
+                  <l>Ar yr awyr yn tymheſtlu,</l>
+                  <l>Ar y lloerig iw ynfydu.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Plant y Lleuad Digllon ydynt.</l>
+                  <l>Ag anwadal fel y corwynt.</l>
+                  <l>Ag anffyddlon ymryſongar,</l>
+                  <l>Cenfigennus ag anhawddgar.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>Yn y Dwfn babanod anghall.</l>
+                  <l>Cas iw ganddynt lwyddiant arall.</l>
+                  <l>Fel yr Hîu neu lanw 'r moroedd,</l>
+                  <l>Gwenu, Gwgu, llawn tymheſtloedd.</l>
+               </lg>
+               <lg n="14">
+                  <pb n="13" facs="tcp:174175:8"/>
+                  <head>14.</head>
+                  <l>Glas ei lliw, a chrwn ei hwyneb</l>
+                  <l>Llygad dû yn llawn godineb.</l>
+                  <l>Canol gwriaeth, Aeliau crychion,</l>
+                  <l>Trwm ei bywyd ag anfodlon.</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>Meddal ynt yn mynych fûdo,</l>
+                  <l>A dychrynllyd, hawdd i Stwytho.</l>
+                  <l>Neu rai meddwaidd ſegur diog</l>
+                  <l>Yn cardotta am y geiniog.</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>Dwylaw pryſſur blewog byrrion</l>
+                  <l>Fel y dyfrgi neu 'r camelion.</l>
+                  <l>Fel y cacewn, neu 'r chwilennod,</l>
+                  <l>Môch a gwyddau. Hawdd i canfod.</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>Nid adwaenant graig yr oeſoedd,</l>
+                  <l>Gweithiwr dinewidiad bydoedd.</l>
+                  <l>Mae barr rhyngddynt a pharadwys,</l>
+                  <l>Cnawdol ydynt ag anghymmwys.</l>
+               </lg>
+               <lg n="18">
+                  <head>18.</head>
+                  <l>Oni ddaw 'r eneidiau truain</l>
+                  <l>Yn y byd iw gwadu ei hunain.</l>
+                  <l>Ag i dorri drwy naturiaeth,</l>
+                  <l>Nid oes iddynt iechydwriaeth.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Mercury.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>
+                     <hi>MErcury</hi> ſydd ſych ag oerllyd.</l>
+                  <l>Yn ymroi ir lleill yn ddiwyd,</l>
+                  <l>
+                     <pb n="14" facs="tcp:174175:9"/>Mammaeth ſynwyr ag ymadrodd,</l>
+                  <l>Ar cyfrifwyr ai haddolodd.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Ynddi ei hun, hi helpa ddynion,</l>
+                  <l>I ymddwyn yn ddoeth yn ffyddlo<g ref="char:cmbAbbrStroke">̄</g>.</l>
+                  <l>Ond os <hi>Saturn</hi> neu <hi>Mars</hi> waedlyd</l>
+                  <l>Ai rheola, Mae hi'n ynfyd:</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Yno mae hi 'n ennyn rhyfel,</l>
+                  <l>Ymchwydd, gwaed, y mryſon, cwa<g ref="char:EOLhyphen"/>rel.</l>
+                  <l>Ag yn cammu pethau vnion,</l>
+                  <l>Wrth vnioni pethau ceimion.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Ond os <hi>Jupiter</hi> a hithau</l>
+                  <l>A gytunant ar amſerau.</l>
+                  <l>Mae iaith dêg, a mwyn hawddga<g ref="char:EOLhyphen"/>rwch,</l>
+                  <l>Yn troi heibio lid a thriſtwch.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Mae plant hon yn ddynion grym<g ref="char:EOLhyphen"/>mus,</l>
+                  <l>Gwinêu ynt, ag anwadalus.</l>
+                  <l>Vchel-lydan yw ei talcen,</l>
+                  <l>Hir ei byſedd, Barf deuêuwen.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Llygad têg, a gwefus denau,</l>
+                  <l>Breichiau hirion, Hwy ei tafodau:</l>
+                  <l>Lladron neu farſiandwyr ydynt,</l>
+                  <l>A chwedleugar hwylgar helynt.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Chwilio llawer, rhodio gwledydd,</l>
+                  <l>Cyfrwys, Hyddyſg, ymhob defnydd</l>
+                  <l>
+                     <pb n="15" facs="tcp:174175:9"/>Ag yn erbyn pob cymydog,</l>
+                  <l>Weithiau yn ymddadlau 'n gefnog:</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Cario chwedlau yn ymffroſtgar,</l>
+                  <l>Megis doeth, ond nid ddeallgar.</l>
+                  <l>Fel yr eppa, fel y milgi,</l>
+                  <l>Gwiwer a phryf coppyn difrî.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Fel y wengci neu ſgyfarnog,</l>
+                  <l>Fel y ddafad gida 'r llwynog.</l>
+                  <l>Fel y wennol ſarph a phiogen,</l>
+                  <l>Fel morgrugyn a gwenynen:</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Da yw ganddynt hwy ddewinia<g ref="char:EOLhyphen"/>eth,</l>
+                  <l>Hoffant lawer drwg yſywaeth.</l>
+                  <l>Rhaid ir rhain (os mynnant fywyd)</l>
+                  <l>Ddyſgu tewi, Goddef adfyd.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Bod yn dynn ymhob daioni</l>
+                  <l>Er maint gweiniaeth y cwmpeini.</l>
+                  <l>Ag ymgadw rhag cwmnhiaeth,</l>
+                  <l>Neu ni allant ond mynd waeth<g ref="char:EOLhyphen"/>waeth.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Rhaid ir rhain cyn mynd ir ne<g ref="char:EOLhyphen"/>foedd</l>
+                  <l>Ag i bawb ymyſg y bobloedd.</l>
+                  <l>Fod fel plentyn bychan gwirion,</l>
+                  <l>Gwael diniwed ymyſg dynion.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="16" facs="tcp:174175:10"/>
+               <head>Venus.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>SEren oer yw <hi>Venus</hi> dirion</l>
+                  <l>Gwlyb a gloyw yn llithio 'r ga<g ref="char:EOLhyphen"/>lon;</l>
+                  <l>n llonyddu <hi>Mars</hi> ryfelgar</l>
+                  <l>Fel gwraig ddoeth, Aigwên yn ha<g ref="char:EOLhyphen"/>wddgar.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Seren ddydd: Mae 'r haul iw ffafrio</l>
+                  <l>Ni fynn <hi>Venus</hi> fod oddiwrtho.</l>
+                  <l>Mammaeth cnawd a braſder cnaw<g ref="char:EOLhyphen"/>dol</l>
+                  <l>Arian diſglair. Griſial nefol.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Plant dan <hi>Venus,</hi> Dynion digrif,</l>
+                  <l>Llawen, Hawddgar ag annifrif:</l>
+                  <l>Caru cêrdd, chwerthinog, Anllad,</l>
+                  <l>Gwych ei llais, a da ei harogliad.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Melyn wallt. Wynebau crynnion,</l>
+                  <l>Cydnerth gyrph a llygaid llawnion,</l>
+                  <l>Mwynaidd, Gweddaidd, Cymwy<g ref="char:EOLhyphen"/>naſgar</l>
+                  <l>ymadroddus a chymdeithgar.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Dynion llonydd, anghyfreithus.</l>
+                  <l>A difalais tacclus trefnus.</l>
+                  <l>Neu ſegurllyd a diofal,</l>
+                  <l>Mewn tafarnau aflan gwammal.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Maent yn debig in cwn mânaf,</l>
+                  <l>Ag ir Teirw ar geifr ynfyttaf,</l>
+                  <l>
+                     <pb n="17" facs="tcp:174175:10"/>Fel cwnningod neu betriſen</l>
+                  <l>Fel aderyn tô neu glomen.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Drwy naturiaeth gwych godidog,</l>
+                  <l>Hylaw hwylus hael a Haûlog.</l>
+                  <l>Ond heb ddofi'r galon oſer</l>
+                  <l>Ni chant fyned ir vchelder.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Gwelent frynted yw chwant cnawdol</l>
+                  <l>Gwenwyn melys; ſiwgwr diafol.</l>
+                  <l>Rhaid yw lladd y chwant yn fuan</l>
+                  <l>Neu fe ladd yr enaid truan.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Haul y pedwerydd.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>Mawr yw 'r Haul. y Blaned freiniol</l>
+                  <l>Poeth a ſych yn troi 'n y canol.</l>
+                  <l>Yn tymheru 'r holl Blanedau.</l>
+                  <l>Yn bywhau holl ddayar bethau.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Bywyd mawr, a llygad oeſoedd,</l>
+                  <l>Chwiliwr natur, Wyneb nefoedd:</l>
+                  <l>Twymnwr mwynaidd araf hyfryd,</l>
+                  <l>Heb vn pelydr yn wen wynllyd.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Calon y Byd. Cynnes odiaeth.</l>
+                  <l>Mewn vn dydd mae 'n llawn rha<g ref="char:EOLhyphen"/>goriaeth.</l>
+                  <l>
+                     <pb n="18" facs="tcp:174175:11"/>Plentyn newydd eni beynydd;</l>
+                  <l>Hûn nag Adda, Arglwydd tywydd.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Ped fae mhellach, fe ddoe fferdod</l>
+                  <l>Ped fae 'n nes, fe loſgai ormod:</l>
+                  <l>Duw ai plannodd yn y canol,</l>
+                  <l>Mewn doethineb anherfynol.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Mae fo 'n canfod calon dayar</l>
+                  <l>Yn troi 'r pridd yn aûr rhy hawdd<g ref="char:EOLhyphen"/>gar</l>
+                  <l>Yn lle 'r galon mae fo 'n trigo</l>
+                  <l>Drwy 'r Arwyddion mae fo 'n drin<g ref="char:EOLhyphen"/>go.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Llygad dehau 'r byd gweledig,</l>
+                  <l>Cyſgod yr haul Dirgeledig.</l>
+                  <l>weithiau ynghudd ynghlips y lleuad</l>
+                  <l>Ynddo ei hun heb fawr newidiad,</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>ond pan oedd Chriſt Jeſu'n dioddef</l>
+                  <l>Fe ymguddiodd <hi>Haul yr holl nef.</hi>
+                  </l>
+                  <l>Am na bu mor fâth ddioddefaint,</l>
+                  <l>Ag ni bydd yn amſer Henaint.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Tri Haul weithiau fu ar vnwaith,</l>
+                  <l>Vn or tri oedd wir Haul perffaith.</l>
+                  <l>Yn diſgleirio ar gymylau,</l>
+                  <l>Yn cenhedlu ei gyſgodau.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Plant yr Haul ynt vchelfeddwl,</l>
+                  <l>Codi a wnant neu golli 'r cwbwl:</l>
+                  <l>Chwennych clod a dattod clymmau</l>
+                  <l>
+                     <pb n="19" facs="tcp:174175:11"/>Caru ei gwlad, a chadw ei geiriau.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Doethion ynt yngwaith teyrna<g ref="char:EOLhyphen"/>ſoedd.</l>
+                  <l>Yn dyfaiſio llês ir bobloedd.</l>
+                  <l>Gwaſtad ynt a dianwadal,</l>
+                  <l>Fel yr Haul heb hoffi dial.</l>
+               </lg>
+               <lg n="11">
+                  <head>11.</head>
+                  <l>Hoffi cael, a bodlon colli.</l>
+                  <l>Dwyſion dirgel yn ymlenwi.</l>
+                  <l>Geiriau byrrion, llawn awdurdod,</l>
+                  <l>Mawr ei meddwl, hawdd ei cymmod</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Neu fonheddig tlawd aniolchgar</l>
+                  <l>Ffol afradlon a thafarngar.</l>
+                  <l>Melyn wallt yn moeli 'n fuan,</l>
+                  <l>Barfog, corphol, dwfn ei amcan.</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>Fel y llew, neu hwrdd yn gwibio,</l>
+                  <l>Neu bryf can wyll yn diſgleirio.</l>
+                  <l>Fel y paûn na fynn mor ammarch,</l>
+                  <l>Fel yr eryr, fel yr alarch:</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>Ond er vched yw ei natur,</l>
+                  <l>Rhaid iw dioddef cûr a dolur.</l>
+                  <l>Nid oes vn or rhain gad wedig,</l>
+                  <l>Ond a wneir yn oſtyngedig.</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>Nid ymoſtwng heb dorr calon</l>
+                  <l>Nid torredig heb ofalon:</l>
+                  <l>Nid gofalus ond wrth ganfod</l>
+                  <l>
+                     <pb n="20" facs="tcp:174175:12"/>Enaid gwerth fawr, llawn o bechod.</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>Pechod byw, nes i groeſhoelio,</l>
+                  <l>Hi fydd ty wyll pan ddioddefo,</l>
+                  <l>Rhaid i nef y rhain dywyllu,</l>
+                  <l>Rhaid iw cyſſur cnawdol ballu.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Mars.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>
+                     <hi>MArs</hi> fych ſeren boethlyd ydyw</l>
+                  <l>Yn cynhyrfu y digter chwerw</l>
+                  <l>
+                     <hi>Mars</hi> yw 'r <hi>Mors</hi> ſy 'n lladd y digllon</l>
+                  <l>Trom, ddireſwm yw, a chreulon.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Côch ei lliw yn llûnio Rhyfel:</l>
+                  <l>Ni bydd <hi>Mars</hi> nai phlant yn dawel.</l>
+                  <l>Digio 'n fuan, Wyneb ffyrnig,</l>
+                  <l>Ag er mwynder nid ynt ddiddig.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Dû yw 'r gwallt, vwch llygad melyn,</l>
+                  <l>Brych ei gwedd, Am waed ymofyn:</l>
+                  <l>Gwrol a diarſwyd ydynt,</l>
+                  <l>Caled, cyfrwys, Blin ei helynt.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Tynnant gleddyf noeth yn fuan</l>
+                  <l>Torri pennau yw ei hamcan.</l>
+                  <l>Ymyſg dynion nid by wioccach</l>
+                  <l>Neb na <hi>Mars,</hi> na neb greulonach.</l>
+               </lg>
+               <lg n="5">
+                  <pb n="21" facs="tcp:174175:12"/>
+                  <head>5.</head>
+                  <l>Dychryn pobloedd, Cryfdernatur,</l>
+                  <l>Iw gelynion nid oes gyſſur:</l>
+                  <l>Stomog ddrwg, a llygaid llymion</l>
+                  <l>Yn argeifio tanllyd goron.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Chwimwth t' hwnt ir brodyr di<g ref="char:EOLhyphen"/>ſtaw.</l>
+                  <l>Gwell llaw goch (medd <hi>Mars</hi>) nar waglaw</l>
+                  <l>Buan i dyſg bob celfy ddyd</l>
+                  <l>Er i bod yn danllyd ynfyd.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Fel yr eirth ar teirw gwylltion,</l>
+                  <l>Fel y meirch ar dreigiau creulon.</l>
+                  <l>Fel y geifr ag fel y bleiddiaid.</l>
+                  <l>Fel maſtyffgwn ymyſg defaid.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Mynnant glod a dewrder Hunan,</l>
+                  <l>Ag hyd angau gael ei hamcan.</l>
+                  <l>Lladron weithiau, a chwerylwyr,</l>
+                  <l>Plant y frâd ag anvdon wyr.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Gwyntog, yn llawn anwadalwch</l>
+                  <l>Syth ei glîn, Ni phlyg er triſtwch:</l>
+                  <l>Ond os mynnant fynd ir bwyd,</l>
+                  <l>Rhaid yw diffodd <hi>Mars</hi> drwy 'r yſbryd.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Ag ymoſtwng dan draed Jeſu</l>
+                  <l>A chy meryd ganddo i diſgu,</l>
+                  <l>Yn ddioddef gar ag yn dirion,</l>
+                  <l>Dan yr iau cyn cael y goron.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <pb n="22" facs="tcp:174175:13"/>
+               <head>Jupiter.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>
+                     <hi>Jupiter</hi> ſydd wlyb a gwreſog.</l>
+                  <l>Ffyrfdrâ natur. Ffynnon gefnog:</l>
+                  <l>Gan ei phlant mae wyneb ſiriol:</l>
+                  <l>Tafod teg: ymddygiad gweddol:</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Gwyngoch agwedd. a chorph pybyr.</l>
+                  <l>Llygaid mawr. Gwallt teneu glaſwyr</l>
+                  <l>Barfan grych. Blaenddannedd hirion</l>
+                  <l>Buan dâeru. Buan dirion.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Yn y byd fei mynych godir.</l>
+                  <l>Swyddau iddynt a gynnygir.</l>
+                  <l>Plantâ a wnant, a gweled gorwyr.</l>
+                  <l>Prydferth ynt a llawn o ſynwyr.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Mawr ei meddwl. Hawdd i gwrido</l>
+                  <l>Mae 'r diolchgar yn cwilyddio.</l>
+                  <l>Da wrth dlodion a gofalus</l>
+                  <l>Am ei tylwyth, a chariadus.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Llygaid gleiſion, talcen vchel.</l>
+                  <l>Hael a chyfiawn heb ymrafael.</l>
+                  <l>Hardd mewn llawer peth naturiol,</l>
+                  <l>Er nad ydynt etto ysbrydol.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Fel y Defaid, fel yr ychen.</l>
+                  <l>Fel y carw, ag fel y golomen.</l>
+                  <l>
+                     <pb n="23" facs="tcp:174175:13"/>Fel yr Eryr, ar ciconia,</l>
+                  <l>Fel yr Jeir, yw 'r dynion yma.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>A gwir yw nad mettal nefol</l>
+                  <l>Yw plant Jupiter uaturiol</l>
+                  <l>Rhaid yw adnewyddu ysbryd</l>
+                  <l>Ei holl feddwl, os cânt fywyd.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Saturn.</head>
+               <lg n="1">
+                  <head>1.</head>
+                  <l>Oer a ſych yw Saturn greulon,</l>
+                  <l>Mamfaeth y meddyliau dûon.</l>
+                  <l>Pladur lom, yn lladd llaweroedd.</l>
+                  <l>Gwyrddlas wenwyn. Bygwth fydo<g ref="char:EOLhyphen"/>edd.</l>
+               </lg>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>Da i bod hi mhellaf vchod,</l>
+                  <l>Ar Sêr eraill yn i gorfod.</l>
+                  <l>Duw ai cododd hi yn vchaf,</l>
+                  <l>Am mai hon yw 'r vn greulonaf.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>Dynion pruddion yw plant Saturn.</l>
+                  <l>Calongaled fel yr aſgwrn.</l>
+                  <l>Hir yu dyſgu. Craff yn cofio.</l>
+                  <l>Pobloedd unig yn neillduo.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>Dewr ei talcen Llygaid trymion,</l>
+                  <l>Nos aneſmwyth. Dydd anfodlon.</l>
+                  <l>Breuddwyd ofn cythreuliaid gwang<g ref="char:EOLunhyphen"/>cus.</l>
+                  <l>
+                     <pb n="24" facs="tcp:174175:14"/>Gwythi mawrion. Chwydd afiachus.</l>
+               </lg>
+               <lg n="5">
+                  <head>5.</head>
+                  <l>Wyneb cûlgrûch. Aeliau vchel.</l>
+                  <l>Gweflau tewion. Rhagrith dirgel.</l>
+                  <l>Parod waed wyllt yn dihoeni.</l>
+                  <l>Yn llawn malis a drygioni.</l>
+               </lg>
+               <lg n="6">
+                  <head>6.</head>
+                  <l>Hênwyr ydynt cyn deugieiniau.</l>
+                  <l>Oerni ſy 'n byrhau ei dyddiau;</l>
+                  <l>Sychder oer ſyn lladd yr Henaint.</l>
+                  <l>Felly gwna 'r Saturnaidd drwghaint.</l>
+               </lg>
+               <lg n="7">
+                  <head>7.</head>
+                  <l>Anobeithio 'n erbyn rhefwm</l>
+                  <l>Ai llawen ydd yn ddigwlwm.</l>
+                  <l>A Da ganddynt gael melyſgerdd.</l>
+                  <l>Cerdd a helpai Saul oi angerdd.</l>
+               </lg>
+               <lg n="8">
+                  <head>8.</head>
+                  <l>Prin yn rhoddi, a Thawedog:</l>
+                  <l>Ag eiddigus ag afrywiog.</l>
+                  <l>Cas priodi ag anfodlon.</l>
+                  <l>Gelyn cûchiog ir a fradlon.</l>
+               </lg>
+               <lg n="9">
+                  <head>9.</head>
+                  <l>Llygaid bychain ar i wared,</l>
+                  <l>Calon ſûr yn ofni tynged.</l>
+                  <l>Maent fel eirth a chwn a chathod,</l>
+                  <l>Fel y ſeirph ag fel Aſſynnod.</l>
+               </lg>
+               <lg n="10">
+                  <head>10.</head>
+                  <l>Llyffaint dafadennog dûon,</l>
+                  <l>Tyrchau dayar: Dynion blinion.</l>
+                  <l>Ond er cynddrwg ei naturiaeth.</l>
+                  <l>Help ſydd mewn Ailenedigaeth.</l>
+               </lg>
+               <lg n="11">
+                  <pb n="25" facs="tcp:174175:14"/>
+                  <head>11.</head>
+                  <l>Troi anifail yn ddyn gweddaidd</l>
+                  <l>Neu droi diawl yn angel ſanctaidd,</l>
+                  <l>Anhawdd yw, a thaſg ryfeddol.</l>
+                  <l>Hyn a âll y Gair tragwyddol.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Ond er bod y poenau mwyaf</l>
+                  <l>Ir rhai ſydd or natur waethaf:</l>
+                  <l>Os troi wnant at Dduw yn fuan.</l>
+                  <l>ymyſg ſeinctiau bydd ei cyfran.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <lg n="1">
+                  <head>1</head>
+                  <l>Wele, Ddyn ben gair ith helpu</l>
+                  <l>Os edrychi ar i fynu,</l>
+                  <l>Ar ſêr Duw, neu i lawr ar ddynion,</l>
+                  <l>Wele Air im holl gymdogion.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Rhai a ddwedant fod y ddayar.</l>
+                  <l>yn troi beynydd yn olwyngar.</l>
+                  <l>Eraill mai 'r Haul ſydd redegog.</l>
+                  <l>Ar ddayaren yn ddiyfgog.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Ond y gwir yw hyn: Deellwch.</l>
+                  <l>Chwiannoethion doethion dyſgwch:</l>
+                  <l>Fod y ddau a phob creadur,</l>
+                  <l>yn ymſymud yn ei natur.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Nid oes Dim nad ydyw 'n yfgog,</l>
+                  <l>Ond yr <hi>Arglwydd Hollalluog:</hi>
+                  </l>
+                  <l>Mae 'r holl ddayar mor a nefoedd:</l>
+                  <l>yn rhoi trôeau yn ei lleoedd:</l>
+               </lg>
+               <lg n="5">
+                  <pb n="26" facs="tcp:174175:15"/>
+                  <head>5</head>
+                  <l>Fel mewn clocc mae llawer ôlwyn</l>
+                  <l>yn y dirgel y mae'r cychwyn,</l>
+                  <l>Maent yn troi ar gyfer beynydd,</l>
+                  <l>yn wynebu 'r naill i gilydd:</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>Anrhaethadwy yw 'r ddoethineb</l>
+                  <l>Ai gwnaeth oll yn wyneb wyneb:</l>
+                  <l>A rhyfeddol yw 'r cadernid</l>
+                  <l>Sy 'n i cynnal yn ei rhydddid:</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>Rhyfedd rhyfedd yw 'r Goruwchaf:</l>
+                  <l>Ai gwnaeth oll or Dim Dim lleiaf:</l>
+                  <l>Pleſer Duw oedd ffynnon oeſoedd;</l>
+                  <l>Dim ond Gair a wnaeth y bydoedd:</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>Dyma 'r Gair drwy'r byd a glywyd</l>
+                  <l>Dyma 'r Gair yn gnawd a wnaeth<g ref="char:EOLhyphen"/>bwyd;</l>
+                  <l>Dyma 'r Gair a weithiodd gyntaf:</l>
+                  <l>Dyma 'r Gair a farn yn olaf:</l>
+               </lg>
+               <lg n="9">
+                  <head>9</head>
+                  <l>Nid yw hyn i gyd ond dechrau</l>
+                  <l>Bychan ddattod rhyfeddodau.</l>
+                  <l>I adnabod y ſaith ysbryd,</l>
+                  <l>Yn oen Duw a ninnau hefyd.</l>
+               </lg>
+               <lg n="10">
+                  <head>10</head>
+                  <l>Dos di mlaen fy mrawd, a llwydda</l>
+                  <l>Yn eglurach yſgrifenna.</l>
+                  <l>Ond na phwyſa ar y doethion</l>
+                  <l>Ag nag ofna rwyſtrau dynion.</l>
+               </lg>
+               <lg n="11">
+                  <pb n="27" facs="tcp:174175:15"/>
+                  <head>11.</head>
+                  <l>Ar ddyfnderoedd hoffant boeri</l>
+                  <l>Pob gwaith da a gaiff i groeſi:</l>
+                  <l>Maent yn cablu 'r peth ni welſont:</l>
+                  <l>Ag yn llygru 'r hyn a wyddont.</l>
+               </lg>
+               <lg n="12">
+                  <head>12.</head>
+                  <l>Ond dydd mawr yn awr a wawria</l>
+                  <l>Ar boreugwaith a ddiſgleiria:</l>
+                  <l>Er cân ceiliog trwm yw 'r ſyrthni:</l>
+                  <l>Ond yr Haul a wna i chwi godi:</l>
+               </lg>
+               <lg n="13">
+                  <head>13.</head>
+                  <l>Nid yw hyn dros hyn o amſer</l>
+                  <l>Ond pen gair: Mae 'n eiſiau lawer:</l>
+                  <l>I agoryd pyrth ffurfafen,</l>
+                  <l>Ag i ganmol Duw yr wybren:</l>
+               </lg>
+               <lg n="14">
+                  <head>14.</head>
+                  <l>Dim o newydd: Ond hen bethau</l>
+                  <l>Pethau dyfnion vwchlaw geiriau:</l>
+                  <l>Rhaid cael blodau, cyn cael addfed:</l>
+                  <l>Rhaid yw croppian cyn cael cerdded</l>
+               </lg>
+               <lg n="15">
+                  <head>15.</head>
+                  <l>Nid wyfi yn ymgyſtadlu,</l>
+                  <l>A neb yma wrth ſcrifennu:</l>
+                  <l>Dyma derfyn y Planedau:</l>
+                  <l>Ofna 'r hwn ai gwaneth yn olau:</l>
+               </lg>
+               <lg n="16">
+                  <head>16.</head>
+                  <l>Nid y Sêr yw 'r vnig Deſtyn,</l>
+                  <l>Chwilia 'r Galon ar Gorchymyn.</l>
+                  <l>Tyrd o yſbryd y byd diffaith</l>
+                  <l>Ir Baradwys beraidd berffaith.</l>
+               </lg>
+               <lg n="17">
+                  <head>17.</head>
+                  <l>Gwaefi (meddi) nid wi 'n medru</l>
+                  <l>
+                     <pb n="28" facs="tcp:174175:16"/>Codi 'r enaid ar i fynu.</l>
+                  <l>Vwchlaw 'r ddayar ar planedau</l>
+                  <l>Beth a wnaf? cyn dyfod angau.</l>
+               </lg>
+               <lg n="18">
+                  <head>18.</head>
+                  <l>Dos i mewn i ti dy Hunan,</l>
+                  <l>Dos at Dduw oddi yno allan,</l>
+                  <l>Allan oth naturiol wyllus,</l>
+                  <l>Ag o yſbryd byd gofidus.</l>
+               </lg>
+               <lg n="19">
+                  <head>19.</head>
+                  <l>Na chais edrych am ddiddanwch</l>
+                  <l>Yn y byd, ond dioddef driſtwch.</l>
+                  <l>Tônn ar wddf Tonnau yn waſtad,</l>
+                  <l>Ond ynghriſt mae cyſſur cariad.</l>
+               </lg>
+               <lg n="20">
+                  <head>20.</head>
+                  <l>Hyny yw, yn yſbryd Jeſu,</l>
+                  <l>Dilyn hwn a dos i fynu.</l>
+                  <l>Os canlyni dy Hun-yſbryd</l>
+                  <l>Cnawdol, nid oes obaith bywyd.</l>
+               </lg>
+               <lg n="21">
+                  <head>21.</head>
+                  <l>Rwyti 'n cael Rhybuddion lawer,</l>
+                  <l>Mewn canghânodd ag mewn amſer,</l>
+                  <l>Drwy bregethau a thrwy lyfrau,</l>
+                  <l>A thrwy ryfedd newidiadau.</l>
+               </lg>
+               <lg n="22">
+                  <head>22.</head>
+                  <l>Duw in helpu, Duw in caru</l>
+                  <l>Duw in oewid an diddauu:</l>
+                  <l>Duw nid yw yn ol i vndyn,</l>
+                  <l>Ond gwae 'r dall ar byddar cyndyn.</l>
+               </lg>
+               <lg n="23">
+                  <head>23.</head>
+                  <l>Both a ddywaid <hi>Amos Brophwyd</hi>
+                  </l>
+                  <l>Wrth dy Iſrael am ei hywyd?</l>
+                  <l>
+                     <pb n="29" facs="tcp:174175:16"/>
+                     <hi>Ceiſiwch Dduw a wuaeth ſaith Seren,</hi>
+                  </l>
+                  <l>
+                     <hi>Lluniwr Orion ar ffurfafen.</hi>
+                  </l>
+               </lg>
+               <lg n="24">
+                  <head>24.</head>
+                  <l>Beth a ddywad <hi>Job</hi> oi galon?</l>
+                  <l>
+                     <hi>Mawr yw Duw ſy 'n gwneuthur Orion</hi>
+                  </l>
+                  <l>
+                     <hi>Ar Pleiades ag Arcturus,</hi>
+                  </l>
+                  <l>
+                     <hi>A ſtafelloedd dehau Venus,</hi>
+                  </l>
+               </lg>
+               <lg n="25">
+                  <head>25.</head>
+                  <l>Beth a ddwedodd Duw <hi>Job</hi> wrtho</l>
+                  <l>
+                     <hi>Fyngwas Job, Tâw Sôn a gwr an do.</hi>
+                  </l>
+                  <l>
+                     <hi>Dangos Ple 'r oedd Jobyn dru<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n,</hi>
+                  </l>
+                  <l>Pan ſylfaenais i ddayarlan.</l>
+               </lg>
+               <lg n="26">
+                  <head>26.</head>
+                  <l>Pan gydganodd Sêr Angelion,</l>
+                  <l>Pan ganfuont wnthiau mawrion:</l>
+                  <l>A ſtafelloedd y goleuni,</l>
+                  <l>Ar dwyrein wynt yn ymgodi.</l>
+               </lg>
+               <lg n="27">
+                  <head>27.</head>
+                  <l>Pwy yw Tad y glaw ar gwlitho<g ref="char:EOLhyphen"/>edd</l>
+                  <l>Crôth yr iâ a llwyd rew nefoedd?</l>
+                  <l>A adwaenoſt di ordeiniad</l>
+                  <l>Yr holl nefoedd ai hamgylchiad?</l>
+               </lg>
+               <lg n="28">
+                  <head>28.</head>
+                  <l>Rhwyma di hyfry dwch Ebryll:</l>
+                  <l>Neu gais Mattod clymmau erchyll</l>
+                  <l>Dayar ſych yn amſer gayaf:</l>
+                  <l>Deall Mazzaroth yn gyntaf.</l>
+               </lg>
+               <lg n="29">
+                  <head>29.</head>
+                  <l>Mae <hi>Arcturus</hi> ai holl feibion</l>
+                  <l>Vwch dy law di (gyſyng galon)</l>
+                  <l>Onid ynt, Gorchymyn gwmwl</l>
+                  <l>
+                     <pb n="30" facs="tcp:174175:17" rendition="simple:additions"/>I roi glaw yn ol dy feddwl.</l>
+               </lg>
+               <lg n="30">
+                  <head>30.</head>
+                  <l>Pâr di <hi>(Job)</hi> ir mellt ar taranau</l>
+                  <l>Fynd a dyfod wrth dy eiriau.</l>
+                  <l>Pâr ir wawr ddiſgleirio 'n eglur ddôran</l>
+                  <l>A dilladu 'r byd yn bybur:</l>
+               </lg>
+               <lg n="31">
+                  <head>31.</head>
+                  <l>Ehang ydyw 'r môr. Gwna</l>
+                  <l>Par di iddo arbed tonnau.</l>
+                  <l>Neu waſcara gwmmwl droſto,</l>
+                  <l>A gwna 'r niwl yn Rhwymyn iddo.</l>
+               </lg>
+               <lg n="32">
+                  <head>32.</head>
+                  <l>Nid philoſophydd ſy 'n gofyn gwanddyn.</l>
+                  <l>Ond llais Duw ſy 'n gwahadd</l>
+                  <l>I ymofyn am ryw bethau,</l>
+                  <l>Drwy ddwfn natur yſgythurau.</l>
+               </lg>
+               <lg n="33">
+                  <head>33.</head>
+                  <l>Pam i lloſgi ran or ſcythur</l>
+                  <l>Sydd yn Sôn am Arglwydd natur<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>Os wyt waeth na <hi>Job</hi> dyſg etto;</l>
+                  <l>Os wyt ddyſgediccach. Iddo.</l>
+               </lg>
+               <signed>Ll. G. M.</signed>
+            </div>
+            <trailer>TERFYN.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="poem">
+            <pb facs="tcp:174175:17"/>
+            <lg n="1">
+               <head>1.</head>
+               <l>PAm y printiwyd y Gân yma?</l>
+               <l>Cymer atteb, ag na farna.</l>
+               <l>Rhaid ir dalent gael i harfer</l>
+               <l>Er i bod yn chwith gan lawer.</l>
+            </lg>
+            <lg n="2">
+               <l>2. Gwych er hyn gan Gymro tirion</l>
+               <l>Gael drwy gerdd wirionedd Gyſſon</l>
+               <l>Gwagel (yn nehau-barth) watwor:</l>
+               <l>Gwynedd, Gochel Golli 'r Tymmor</l>
+            </lg>
+            <lg n="3">
+               <l>3. Tra fo amſer, gwell yw printio</l>
+               <l>Y gwirionedd, nai lêchguddio.</l>
+               <l>Gwir ſydd yma, a Dyfnderau,</l>
+               <l>Nid cynhayaf opiniwnau.</l>
+            </lg>
+            <lg n="4">
+               <l>4. Wrth gopîo, mae cam ſacrifen.</l>
+               <l>Felly 'r meddwl ſy 'n camddarllen.</l>
+               <l>Dyma 'r atteb pam y printiaf,</l>
+               <l>Os drwg genit, Danfon attaf.</l>
+            </lg>
+            <lg n="5">
+               <l>5. Vnwaith etto gwel a Gwrando</l>
+               <l>Na ddirmyga Dduw ith lunio.</l>
+               <l>Mae Dyfnderoedd creadwriaeth</l>
+               <l>Vwch law bywyd dy farwolaeth.</l>
+            </lg>
+            <lg n="6">
+               <l>6. Ond os cablu, Siſial, grwgnach</l>
+               <l>A wna rhyw ddyn gwan gwag afiach</l>
+               <l>Gadewch iddo, Ni allwn wrtho,</l>
+               <l>Diwrnod Jeſu ai goleuo. <hi>Amen.</hi>
+               </l>
+            </lg>
+         </div>
+      </back>
+   </text>
+</TEI>
